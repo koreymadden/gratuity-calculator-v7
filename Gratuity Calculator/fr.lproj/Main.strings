@@ -1,0 +1,24 @@
+
+/* Class = "UITextField"; text = "0"; ObjectID = "0d0-xo-6qI"; */
+"0d0-xo-6qI.text" = "0";
+
+/* Class = "UILabel"; text = "Input Bill Amount:"; ObjectID = "5d9-88-hUQ"; */
+"5d9-88-hUQ.text" = "Montant de la facture d'entrée:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bci-uu-eOJ"; */
+"Bci-uu-eOJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Total Amount:"; ObjectID = "GWw-z8-0qB"; */
+"GWw-z8-0qB.text" = "Montant total:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IHt-jG-rR0"; */
+"IHt-jG-rR0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qyu-g2-2dy"; */
+"Qyu-g2-2dy.text" = "Label";
+
+/* Class = "UILabel"; text = "Select Tip Percentage:"; ObjectID = "TMR-fE-Vjg"; */
+"TMR-fE-Vjg.text" = "Sélectionnez le pourcentage de pourboire:";
+
+/* Class = "UILabel"; text = "Tip Amount:"; ObjectID = "fxP-P7-2ZR"; */
+"fxP-P7-2ZR.text" = "Montant du pourboire:";
